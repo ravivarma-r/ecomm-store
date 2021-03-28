@@ -14,7 +14,7 @@ This is an Ecommerce store based on `Django 2.2` and `python 3.6`
 1. Clone the repository and navigate to the directory:
 
     ```
-    git clone https://github.com/fatemehkarimi/ecommerce_store.git
+    git clone https://github.com/ravivarma-r/ecomm-store.git
     cd ecommerce_store
     ```
 1. Setup virtual env and install dependancies:
